@@ -90,7 +90,7 @@ const Login = ({ setIsAuthenticated }) => {
           id="email"
           type="username"
           name="email"
-          placeholder="admin@example.com"
+          placeholder="admin123"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
         />
